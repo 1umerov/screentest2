@@ -3,6 +3,7 @@ import './droppable-area.scss'
 import Icon from '../icon/icon'
 import { icons } from '../../modules/icons'
 
+// droppable area && draggable will applied soon
 function DroppableArea(props) {
   return (
     <section className="droppable-area">
