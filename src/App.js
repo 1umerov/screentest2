@@ -7,6 +7,7 @@ import MobileSidebar from './components/mobile-sidebar/mobile-sidebar'
 import Head from './components/head/head'
 import MobileNavbar from './components/mobile-navbar/mobile-navbar.jsx'
 
+// dark and light theme
 class App extends React.Component {
   constructor(props) {
     super(props)
