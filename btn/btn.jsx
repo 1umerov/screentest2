@@ -2,6 +2,7 @@ import React from 'react'
 import Icon from '../icon/icon'
 import './btn.scss'
 
+// button function
 function IconTexBtn(props) {
   return (
     <button
